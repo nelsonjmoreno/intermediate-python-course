@@ -1,6 +1,7 @@
 import random
 import sys
 
+
 while True:
 	try:
 		dice_rolls = int(input(f'How many dice would you like to roll? '))
